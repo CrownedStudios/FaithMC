@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730450181652
-  login: 1730450085287
+  logout: 1730450596827
+  login: 1730450549696
 money: '0'
 last-account-name: Crowned_Studios
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 4aab9f4b-72cd-490c-8105-8fa43f5355fb
   world-name: world
-  x: -94.20026291571914
-  y: 64.0
-  z: 256.3213577332856
-  yaw: -98.85000610351562
-  pitch: 13.35000228881836
+  x: -194.37312996241315
+  y: 79.47833917177678
+  z: 318.428398087637
+  yaw: -87.60000610351562
+  pitch: 23.699993133544922

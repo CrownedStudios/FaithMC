@@ -1167,3 +1167,109 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.entity.Mob
 	... 25 more
 [08:36:21] [Server thread/INFO]: Crowned_Studios lost connection: Timed out
 [08:36:21] [Server thread/INFO]: Crowned_Studios left the game.
+[08:36:55] [Thread-18/INFO]: UUID of player Crowned_Studios is 3007bf2f-795c-35cd-8711-1852540d5373
+[08:36:55] [Server thread/INFO]: Crowned_Studios[/[0:0:0:0:0:0:0:1]:48400] logged in with entity id 2221 at ([world]-94.20026291571914, 64.0, 256.3213577332856)
+[08:37:09] [Async Chat Thread - #2/INFO]: [m<[0;37;22m[Member][m[0;31;22mCrowned_Studios[m> hi[m
+
+[08:37:15] [Server thread/INFO]: Crowned_Studios issued server command: /essentials reload
+[08:37:16] [Server thread/INFO]: Loaded 854 items from items.csv.
+[08:37:16] [Server thread/WARN]: Tried to reload EssentialsX Discord config while the plugin is in an invalid state! If you've modified your config, restart your server.
+[08:37:16] [Server thread/INFO]: Using locale en
+[08:37:16] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[08:37:18] [Async Chat Thread - #2/INFO]: [m[0;37;22m[Member][m Crowned_Studios > hi[m
+
+[08:38:02] [Server thread/INFO]: Crowned_Studios issued server command: /gmc
+[08:38:32] [luckperms-worker-0/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mCrowned_Studios[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mcrowned_studios[0;30;1m)[m
+
+[08:38:32] [luckperms-worker-0/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor add group.owner true[m
+
+[08:38:32] [luckperms-worker-0/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mCrowned_Studios[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mcrowned_studios[0;30;1m)[m
+
+[08:38:32] [luckperms-worker-0/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor remove group.default true[m
+
+[08:38:38] [Async Chat Thread - #3/INFO]: [m[0;31;22m[21m[[m[0;34;22mOWNER[m[0;31;22m[21m][m  Crowned_Studios > :D[m
+
+[08:39:08] [Server thread/INFO]: Crowned_Studios lost connection: Disconnected
+[08:39:08] [Server thread/INFO]: Crowned_Studios left the game.
+[08:39:12] [Thread-20/INFO]: UUID of player Crowned_Studios is 3007bf2f-795c-35cd-8711-1852540d5373
+[08:39:12] [Server thread/INFO]: Crowned_Studios[/[0:0:0:0:0:0:0:1]:55606] logged in with entity id 2713 at ([world]-121.94697425621837, 74.98792898774829, 196.96155885479345)
+[08:39:14] [Server thread/INFO]: Crowned_Studios lost connection: You are sending too many packets!
+[08:39:14] [Server thread/INFO]: Crowned_Studios left the game.
+[08:39:14] [Server thread/WARN]: handleDisconnection() called twice
+[08:39:17] [Thread-21/INFO]: UUID of player Crowned_Studios is 3007bf2f-795c-35cd-8711-1852540d5373
+[08:39:17] [Server thread/INFO]: Crowned_Studios[/[0:0:0:0:0:0:0:1]:57414] logged in with entity id 2714 at ([world]-121.94697425621837, 74.98792898774829, 196.96155885479345)
+[08:41:14] [Server thread/INFO]: Crowned_Studios lost connection: Timed out
+[08:41:14] [Server thread/INFO]: Crowned_Studios left the game.
+[08:42:24] [Thread-22/INFO]: UUID of player Crowned_Studios is 3007bf2f-795c-35cd-8711-1852540d5373
+[08:42:24] [Server thread/INFO]: Crowned_Studios[/[0:0:0:0:0:0:0:1]:39506] logged in with entity id 3013 at ([world]-128.8361159663025, 74.98792898774829, 204.57665216073175)
+[08:42:26] [Server thread/INFO]: Crowned_Studios lost connection: You are sending too many packets!
+[08:42:26] [Server thread/INFO]: Crowned_Studios left the game.
+[08:42:29] [Thread-23/INFO]: UUID of player Crowned_Studios is 3007bf2f-795c-35cd-8711-1852540d5373
+[08:42:29] [Server thread/INFO]: Crowned_Studios[/[0:0:0:0:0:0:0:1]:58576] logged in with entity id 3084 at ([world]-128.8361159663025, 74.98792898774829, 204.57665216073175)
+[08:42:39] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mCrowned_Studios[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mowner[0;30;1m)[m
+
+[08:42:39] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor add prefix.10.&4&l[&r&fOwner&r&4&l]&r  true[m
+
+[08:42:39] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mCrowned_Studios[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mowner[0;30;1m)[m
+
+[08:42:39] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor remove prefix.10.&4&l[&r&1OWNER&r&4&l]&r  true[m
+
+[08:42:42] [Async Chat Thread - #4/INFO]: [m[0;31;22m[21m[[m[0;37;1mOwner[m[0;31;22m[21m][m  Crowned_Studios > hmm[m
+
+[08:43:16] [Server thread/INFO]: Stopping the server
+[08:43:16] [Server thread/INFO]: Stopping server
+[08:43:16] [Server thread/INFO]: Disabling EssentialsDiscord v2.20.1
+[08:43:16] [Server thread/INFO]: [AntiXRay] Disabling AntiXRay v1.9.0
+[08:43:16] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.18.26
+[08:43:16] [Server thread/INFO]: [0;31;1m[[0;30;1mPvPManager[0;31;1m] [0;31;1mSaving player data to storage...[m
+
+[08:43:16] [Server thread/INFO]: [0;31;1m[[0;30;1mPvPManager[0;31;1m] [0;31;1mClosed SQLITE storage[m
+
+[08:43:16] [Server thread/INFO]: Disabling EssentialsSpawn v2.20.1
+[08:43:16] [Server thread/INFO]: [TAB] Disabling TAB v4.1.8
+[08:43:16] [Server thread/INFO]: [TAB] [0;32;1mDisabled in 4ms[m
+
+[08:43:16] [Server thread/INFO]: Disabling EssentialsAntiBuild v2.20.1
+[08:43:16] [Server thread/INFO]: Disabling EssentialsChat v2.20.1
+[08:43:16] [Server thread/INFO]: Disabling EssentialsGeoIP v2.20.1
+[08:43:16] [Server thread/INFO]: Disabling EssentialsProtect v2.20.1
+[08:43:16] [Server thread/INFO]: Disabling Essentials v2.20.1
+[08:43:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:43:16] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:43:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
+[08:43:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:43:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:43:16] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:43:16] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[08:43:16] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[08:43:16] [Server thread/INFO]: [SimplySoulBound] Disabling SimplySoulBound v1.2
+[08:43:16] [Server thread/INFO]: [SimplySoulBound] Disabling Simply SoulBound.
+[08:43:16] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.3.6
+[08:43:16] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[08:43:16] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[08:43:16] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[08:43:16] [Server thread/INFO]: [HeadStash] Disabling HeadStash v1.0
+[08:43:16] [Server thread/INFO]: [HeadStash] HeadStash disabled!
+[08:43:16] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[08:43:16] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[08:43:16] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[08:43:16] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[08:43:16] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[08:43:16] [Server thread/INFO]: [DeathTags] Disabling DeathTags v1.1.0
+[08:43:16] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v3.0.4
+[08:43:16] [Server thread/INFO]: [Horizon] Disabling Horizon v2.0
+[08:43:16] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[08:43:16] [Server thread/INFO]: [PlugMan] Disabling PlugMan v1.0-SNAPSHOT
+[08:43:16] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[08:43:16] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[08:43:16] [Server thread/INFO]: [OpeNLogin] Disabling OpeNLogin v1.6.7
+[08:43:16] [Server thread/INFO]: [CustomKillMessages] Disabling CustomKillMessages v1.5
+[08:43:16] [Server thread/INFO]: Saving players
+[08:43:16] [Server thread/INFO]: Crowned_Studios lost connection: Server closed
+[08:43:16] [Server thread/INFO]: Crowned_Studios left the game.
+[08:43:17] [Server thread/INFO]: Saving worlds
+[08:43:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[08:43:17] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[08:43:17] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
