@@ -846,3 +846,11 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.entity.Mob
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	... 24 more
+[08:08:57] [Server thread/INFO]: Crowned_Studios issued server command: /tab reload
+[08:08:57] [Server thread/INFO]: [TAB] [0;32;1mDisabled in 1ms[m
+
+[08:08:57] [Server thread/INFO]: [TAB] [0;32;1mEnabled in 75ms[m
+
+[08:09:30] [Server thread/INFO]: Crowned_Studios lost connection: Disconnected
+[08:09:30] [Server thread/INFO]: [voicechat] Disconnecting client Crowned_Studios
+[08:09:30] [Server thread/INFO]: Crowned_Studios left the game.
