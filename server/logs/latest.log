@@ -854,3 +854,58 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.entity.Mob
 [08:09:30] [Server thread/INFO]: Crowned_Studios lost connection: Disconnected
 [08:09:30] [Server thread/INFO]: [voicechat] Disconnecting client Crowned_Studios
 [08:09:30] [Server thread/INFO]: Crowned_Studios left the game.
+[08:15:21] [Server thread/INFO]: Stopping the server
+[08:15:21] [Server thread/INFO]: Stopping server
+[08:15:21] [Server thread/INFO]: Disabling EssentialsDiscord v2.20.1
+[08:15:21] [Server thread/INFO]: [AntiXRay] Disabling AntiXRay v1.9.0
+[08:15:21] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.18.26
+[08:15:21] [Server thread/INFO]: [0;31;1m[[0;30;1mPvPManager[0;31;1m] [0;31;1mSaving player data to storage...[m
+
+[08:15:21] [Server thread/INFO]: [0;31;1m[[0;30;1mPvPManager[0;31;1m] [0;31;1mClosed SQLITE storage[m
+
+[08:15:21] [Server thread/INFO]: Disabling EssentialsSpawn v2.20.1
+[08:15:21] [Server thread/INFO]: [TAB] Disabling TAB v4.1.8
+[08:15:21] [Server thread/INFO]: [TAB] [0;32;1mDisabled in 0ms[m
+
+[08:15:21] [Server thread/INFO]: Disabling EssentialsAntiBuild v2.20.1
+[08:15:21] [Server thread/INFO]: Disabling EssentialsChat v2.20.1
+[08:15:21] [Server thread/INFO]: Disabling EssentialsGeoIP v2.20.1
+[08:15:21] [Server thread/INFO]: Disabling EssentialsProtect v2.20.1
+[08:15:21] [Server thread/INFO]: Disabling Essentials v2.20.1
+[08:15:21] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:15:21] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:15:21] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.20
+[08:15:21] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
+[08:15:21] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:15:21] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:15:22] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:15:22] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[08:15:22] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[08:15:22] [Server thread/INFO]: [SimplySoulBound] Disabling SimplySoulBound v1.2
+[08:15:22] [Server thread/INFO]: [SimplySoulBound] Disabling Simply SoulBound.
+[08:15:22] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.3.6
+[08:15:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[08:15:22] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[08:15:22] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[08:15:22] [Server thread/INFO]: [HeadStash] Disabling HeadStash v1.0
+[08:15:22] [Server thread/INFO]: [HeadStash] HeadStash disabled!
+[08:15:22] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[08:15:22] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[08:15:22] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[08:15:22] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[08:15:22] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[08:15:22] [Server thread/INFO]: [DeathTags] Disabling DeathTags v1.1.0
+[08:15:22] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v3.0.4
+[08:15:22] [Server thread/INFO]: [Horizon] Disabling Horizon v2.0
+[08:15:22] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[08:15:22] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[08:15:22] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[08:15:22] [Server thread/INFO]: [OpeNLogin] Disabling OpeNLogin v1.6.7
+[08:15:22] [Server thread/INFO]: [CustomKillMessages] Disabling CustomKillMessages v1.5
+[08:15:22] [Server thread/INFO]: Saving players
+[08:15:22] [Server thread/INFO]: Saving worlds
+[08:15:22] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[08:15:22] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[08:15:22] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
