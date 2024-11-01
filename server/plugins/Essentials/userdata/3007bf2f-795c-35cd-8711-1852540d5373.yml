@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730448027947
+  login: 1730448082512
+money: '0'
+last-account-name: Crowned_Studios
+lastlocation:
+  world: 4aab9f4b-72cd-490c-8105-8fa43f5355fb
+  world-name: world
+  x: -103.5
+  y: -1.0
+  z: 252.5
+  yaw: -122.55001068115234
+  pitch: -0.4500000476837158
+logoutlocation:
+  world: 4aab9f4b-72cd-490c-8105-8fa43f5355fb
+  world-name: world
+  x: -176.95940468473475
+  y: 76.9996967113224
+  z: 316.23471511368894
+  yaw: 6.600000858306885
+  pitch: 33.900001525878906

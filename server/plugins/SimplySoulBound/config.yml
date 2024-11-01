@@ -1,0 +1,5 @@
+enchanting:
+  allowed_materials:
+    - DIAMOND_SWORD
+enchant_name: "&dSoulBound I"
+book_name: §d§lSoulBoundBook

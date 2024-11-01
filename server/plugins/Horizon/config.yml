@@ -1,0 +1,7 @@
+sample_size: 75
+
+punishment:
+  5:
+    - 'horizon notify §c[Horizon] %player% is suspicious of using killaura. [1]'
+  10:
+    - 'horizon notify §c[Horizon] %player% is suspicious of using killaura. [2]'
