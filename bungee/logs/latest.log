@@ -114,3 +114,22 @@
 [08:16:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37164]: Logged in as 'Crowned_Studios'
 [08:16:27] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:37164|Crowned_Studios] -> UpstreamBridge has connected
 [08:16:27] [Netty Worker IO Thread #3/INFO]: [Crowned_Studios|/[0:0:0:0:0:0:0:1%0]:37164] <-> ServerConnector [lobby] has connected
+[08:28:24] [Netty Worker IO Thread #3/INFO]: [Crowned_Studios] disconnected with: Proxy lost connection to server.
+[08:28:24] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:37164|Crowned_Studios] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:28:24] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:37164|Crowned_Studios] -> UpstreamBridge has disconnected
+[08:29:03] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53020]: Connected via websocket
+[08:29:03] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53020]: Origin header is https://eaglercraft.com
+[08:29:03] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53020]: Logged in as 'Crowned_Studios'
+[08:29:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53020|Crowned_Studios] -> UpstreamBridge has connected
+[08:29:03] [Netty Worker IO Thread #0/INFO]: [Crowned_Studios|/[0:0:0:0:0:0:0:1%0]:53020] <-> ServerConnector [lobby] has connected
+[08:31:22] [Netty Worker IO Thread #0/INFO]: [Crowned_Studios] disconnected with: Proxy lost connection to server.
+[08:31:22] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53020|Crowned_Studios] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:31:22] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53020|Crowned_Studios] -> UpstreamBridge has disconnected
+[08:34:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52232]: Connected via websocket
+[08:34:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52232]: Origin header is https://eaglercraft.com
+[08:34:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52232]: Logged in as 'Crowned_Studios'
+[08:34:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52232|Crowned_Studios] -> UpstreamBridge has connected
+[08:34:45] [Netty Worker IO Thread #1/INFO]: [Crowned_Studios|/[0:0:0:0:0:0:0:1%0]:52232] <-> ServerConnector [lobby] has connected
+[08:36:21] [Netty Worker IO Thread #1/INFO]: [Crowned_Studios] disconnected with: Proxy lost connection to server.
+[08:36:21] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52232|Crowned_Studios] <-> DownstreamBridge <-> [lobby] has disconnected
+[08:36:21] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52232|Crowned_Studios] -> UpstreamBridge has disconnected

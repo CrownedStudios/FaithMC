@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 0:0:0:0:0:0:0:1
@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730448570174
-  login: 1730448987384
+  logout: 1730450181652
+  login: 1730450085287
 money: '0'
 last-account-name: Crowned_Studios
 lastlocation:
   world: 4aab9f4b-72cd-490c-8105-8fa43f5355fb
   world-name: world
-  x: -103.5
-  y: -1.0
-  z: 252.5
-  yaw: -122.55001068115234
-  pitch: -0.4500000476837158
+  x: -95.5
+  y: 64.0
+  z: 255.5
+  yaw: 9.450000762939453
+  pitch: 43.35000228881836
 logoutlocation:
   world: 4aab9f4b-72cd-490c-8105-8fa43f5355fb
   world-name: world
-  x: -186.170221333018
-  y: 81.0
-  z: 328.15113563177795
-  yaw: 257.70001220703125
-  pitch: 32.70000076293945
+  x: -94.20026291571914
+  y: 64.0
+  z: 256.3213577332856
+  yaw: -98.85000610351562
+  pitch: 13.35000228881836
